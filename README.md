@@ -15,3 +15,12 @@ To keep things clean, the directory structure for the API is setup in the `src` 
 2.  `cd` into where you cloned
 3.  Run `yarn`
 4.  Navigate to `localhost:3000` and you're ready to go
+
+## Dependencies
+
+[express](https://classic.yarnpkg.com/en/package/express)
+[morgan](https://classic.yarnpkg.com/en/package/morgan)
+[dotenv](https://classic.yarnpkg.com/en/package/dotenv)
+[debug](https://classic.yarnpkg.com/en/package/debug)
+[http-errors](https://classic.yarnpkg.com/en/package/http-errors)
+[cookie-parser](https://classic.yarnpkg.com/en/package/cookie-parser)
