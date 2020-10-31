@@ -1,4 +1,4 @@
-# Node.js Express API Boilerplate
+# 📦 Node.js Express API Boilerplate
 
 Express is a great package for getting a small API up and running real quick, however there's a lot of base setup that you always end up doing that frankly gets boring after you've done it more than once.
 
