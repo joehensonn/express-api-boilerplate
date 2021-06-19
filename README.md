@@ -14,8 +14,9 @@ To keep things clean, the directory structure for the API is setup in the `src` 
 1.  Clone this repo
 2.  `cd` into where you cloned
 3.  Run `yarn`
-4.  `yarn startdev` to start testing
-5.  Navigate to `localhost:3000` and you're ready to go
+4.  `cp .env.example .env`
+5.  `yarn startdev` to start testing
+6.  Navigate to `localhost:3000` and you're ready to go
 
 ## Dependencies
 
